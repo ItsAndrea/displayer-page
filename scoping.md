@@ -14,8 +14,6 @@ En un documento 'index.html' se maquetara la página utilizando un div de id 'co
 Explicar q use la de users y posts <br>
 - Mostrar cada 'USER' en una tabla usando jQuery <br>
 - Mostrar los 'POSTS' de un usuario cuando lo seleccionan <br>
-- Creando un servidor <br>
-<code>Luego de utilizar el comando 'npm install express' para instalar el framework en el archivo 'index.js' configure el puerto para que usara el 3000</code>
 - Dandole estilo al fondo (styles.css) <br>
 ![fanimado](https://user-images.githubusercontent.com/85640313/141411565-2476779e-5a8b-4800-b953-67096fd3f404.png)
 - Dandole estilo al contenedor y la tabla (styles.css)<br>
