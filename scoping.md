@@ -14,7 +14,7 @@ En un documento 'index.html' se maquetara la página utilizando un div de id 'co
 ![json2](https://user-images.githubusercontent.com/85640313/141864085-2f87f4ab-0378-4453-afa2-634a84a1fd2d.png)
 
 - API JSONPlaceholder<br>
-Para tener a usuarios utilize el  <br>
+Para tener a usuarios utilize el recurso /users que ofrece la API JSONplaceholder y para tener posts use /posts <br>
 - Mostrar cada 'USER' en una tabla usando jQuery <br>
 ![users](https://user-images.githubusercontent.com/85640313/141863828-815cf568-9a3d-43e6-aeed-47158f6f639b.png)
 
