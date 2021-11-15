@@ -33,4 +33,4 @@ Phase where the system was executed and a verification of the above requirements
 📌 Display each 'USER' in a table using jQuery ✔️<br>
 📌 When the user selects a 'USER' in the table, all the 'POSTS' that were created by that 'USER' will be displayed ✔️<br>
 ### 🚩 Launch <br>
-Watch the proyect =>
+Watch the proyect => https://displayerpage.netlify.app/
