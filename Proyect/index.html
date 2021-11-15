@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Displayer Page</title>
+    <link rel="icon" href="computer.png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <table class="table">
+        <thead>
+            <tr>
+                <th style="font-size: 30px;">User table</th>
+            </tr>
+        </thead>
+        <tbody>
+            <td id='tdata'></td>
+            <td id='tposts'></td>
+        </tbody>
+    </table>
+    <script>
+        window.onselectstart = (e) => {
+            e.preventDefault();
+        }
+    </script>
+    <script src='https://code.jquery.com/jquery-3.6.0.min.js'></script>
+    <script src='index.js'></script>
+</body>
+</html>
