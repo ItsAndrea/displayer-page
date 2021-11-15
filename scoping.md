@@ -28,9 +28,9 @@ https://jsonplaceholder.typicode.com/posts <br>
 
 ### 🚩 Verification <br>
 Phase where the system was executed and a verification of the above requirements was performed <br> 
-📌 Page that receives JSON data and displays it in the DOM<br>
-📌 Use JSONPlaceholder API <br>
-📌 Display each 'USER' in a table using jQuery<br>
-📌 When the user selects a 'USER' in the table, all the 'POSTS' that were created by that 'USER' will be displayed.<br>
+📌 Page that receives JSON data and displays it in the DOM ✔️<br>
+📌 Use JSONPlaceholder API ✔️<br>
+📌 Display each 'USER' in a table using jQuery ✔️<br>
+📌 When the user selects a 'USER' in the table, all the 'POSTS' that were created by that 'USER' will be displayed ✔️<br>
 ### 🚩 Launch <br>
 Watch the proyect =>
