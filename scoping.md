@@ -4,7 +4,7 @@
 📌 Page that receives JSON data and displays it in the DOM<br>
 📌 Use JSONPlaceholder API <br>
 📌 Display each 'USER' in a table using jQuery<br>
-📌 When the user selects a 'USER' in the table, all the 'POSTS' that were created by that 'USER' will be displayed.<br>
+📌 When the user selects a 'USER' in the table, all the 'POSTS' that were created by that 'USER' will be displayed<br>
 ### 🚩 Design <br>
 ![Displayer](https://user-images.githubusercontent.com/85640313/141865428-7e940bfe-695d-4a7a-ad00-002b9067c14e.png)
 ### 🚩 Implementation <br>
