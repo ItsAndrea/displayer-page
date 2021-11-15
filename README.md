@@ -1,5 +1,5 @@
 # Displayer Page 🔍
-## Software development plan (Waterfall methodology)
+## Software development plan (🌊Waterfall methodology)
 ### 🚩 Requirements <br>
 📌 Page that receives JSON data and displays it in the DOM<br>
 📌 Use JSONPlaceholder API <br>
