@@ -15,6 +15,8 @@ En un documento 'index.html' se maquetara la página utilizando un div de id 'co
 
 - API JSONPlaceholder<br>
 Para tener a usuarios utilize el recurso /users que ofrece la API JSONplaceholder y para tener posts use /posts <br>
+https://jsonplaceholder.typicode.com/users <br>
+https://jsonplaceholder.typicode.com/posts <br>
 - Mostrar cada 'USER' en una tabla usando jQuery <br>
 ![users](https://user-images.githubusercontent.com/85640313/141863828-815cf568-9a3d-43e6-aeed-47158f6f639b.png)
 
